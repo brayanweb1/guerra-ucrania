@@ -1,0 +1,42 @@
+h1
+{
+color:gold;
+text-align-last:center;
+font:100px/1.0 comics;
+}
+h2
+{
+text-align-last: center;
+color:yellow;
+font:60px/1.0 comics;
+}
+h3
+{
+text-align-last:left;
+color:white;
+font:40px/1.0 comics;
+}
+h4
+{
+text-align-last:center;
+color:yellow;
+font:60px/1.0 comics;
+}
+h5
+{
+text-align-last:left;
+color:white;
+font:40px/1.0 comics;
+}
+h6
+{
+text-align-last:center;
+color:yellow;
+font:60px/1.0 comics;
+}
+h7
+{
+text-align-last:left;
+color:white;
+font:60px/1.0 comics;
+}
